@@ -12,7 +12,7 @@
     {
       "building": "JSQ1",
       "tiers": [
-        { "rate": "0.5 Month OP", "condition": "Everything", "highlight": false }
+        { "rate": "0.5 Month OP", "condition": "All units", "highlight": true }
       ]
     },
     {
@@ -24,7 +24,7 @@
     {
       "building": "JSQ3",
       "tiers": [
-        { "rate": "1.0 Month OP", "condition": "All deals", "highlight": true }
+        { "rate": "1.0 Month OP", "condition": "All units", "highlight": true }
       ]
     }
   ]
